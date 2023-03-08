@@ -35,8 +35,8 @@ html {height: 100%;}
   }
 
   @keyframes abc {
-    from {bottom: 800px;}
-  to {top: 632px;}
+    from {top: 1000px;}
+  to {top: 630px;}
   }
   
   .profile-card {
