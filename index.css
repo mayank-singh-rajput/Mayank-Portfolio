@@ -35,7 +35,7 @@ html {height: 100%;}
   }
 
   @keyframes abc {
-    from {top: 1000px;}
+    from {top: 800px;}
   to {top: 630px;}
   }
   
