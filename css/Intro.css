@@ -1,5 +1,5 @@
 body {
-    background-image: url('/image/aa.png');
+    background-image: url('https://mayank-singh-rajput.github.io/Mayank-Portfolio/image/aa.png');
     color: whitesmoke;
 }
 
@@ -11,7 +11,7 @@ body {
 }
 
 .fade {
-    background-image: url('/image/aaa.png');
+    background-image: url('https://mayank-singh-rajput.github.io/Mayank-Portfolio/image/aaa.png');
     background-size: cover;
     background-repeat: no-repeat;
     display: none;

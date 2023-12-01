@@ -2,7 +2,7 @@ html {height: 100%;}
   
   body {
     overflow: hidden;
-    background-image: url('/image/aa.png');
+    background-image: url('https://mayank-singh-rajput.github.io/Mayank-Portfolio/image/aa.png');
     background-size: cover;
     position: fixed;
     width: 100%;
@@ -56,7 +56,7 @@ html {height: 100%;}
   }
   
   .profile-card header {
-    background-image: url('/image/aa.png');
+    background-image: url('https://mayank-singh-rajput.github.io/Mayank-Portfolio/image/aa.png');
     display: inline-block;
     padding-bottom: 0;
     opacity: 0;
